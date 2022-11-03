@@ -1,0 +1,42 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: Verdana;
+   background-color: #bfa691;
+    
+}
+h1, h2 {
+    text-align: center;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-weight: normal;
+    color: #88100f;
+    font-size: 16px;
+}
+h3{
+    color: #88100f;
+}
+p, h3 {
+    line-height: 30px;
+}
+img, h3, p {
+
+    margin-left: 20px ;
+}
+p{
+    width: 1000px;
+}
+p, h3{
+    margin-left: 50px;
+}
+img{
+    display: flex;
+    justify-content: center;
+
+    width: 1240px;
+}
